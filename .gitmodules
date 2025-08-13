@@ -3,7 +3,7 @@
 	url = https://github.com/sisong/tinyuz.git
 [submodule "HDiffPatch"]
 	path = HDiffPatch
-	url = https://github.com/sisong/HDiffPatch.git
+	url = https://github.com/aarjan222/HDiffPatch.git
 [submodule "lzma"]
 	path = lzma
 	url = https://github.com/sisong/lzma.git
